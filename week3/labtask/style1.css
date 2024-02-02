@@ -1,0 +1,97 @@
+.position{
+    position: absolute;
+    width: 70%;
+    padding: 30%s;
+    display: flex;
+    
+    }
+    .content {
+        background-color: white;
+        width: 1000px;
+        display: flex;
+        padding: 20px;
+    }
+    .div1{
+    
+    height: 90px;
+    width: 300px;
+    background-color: blue;
+    }
+    
+    
+    body {
+        
+        background-color:palevioletred;
+        margin: 0;
+        padding: 0;
+        color: #333;
+      }
+    
+      header {
+        background-color: #3498db;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+      }
+    
+      section {
+        max-width: 900px;
+        height: 400px;
+        margin: 20px auto;
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      p1{
+      color: black;
+     text-align: center;
+    
+      }
+    
+      h1, h2,h3 {
+        color: black;
+      }
+    h5{
+    color:black;
+    text-align: center;
+    }
+      
+      .img1 {
+        height: 90px;
+          border-radius: 8px;
+          margin-bottom: 10px;
+      }
+
+    .logos img{
+width: 15px;aspect-ratio: 3/2;
+object-fit: contain;
+mix-blend-mode: color-burn;
+
+    }
+.img2{
+left: 10px;
+padding: 10px;
+height: 300px;
+max-width: 400px;
+
+
+}
+.img3{
+    left: 50px;
+    padding: 10px;
+    height: 300px;
+    max-width: 400px;
+    
+    
+    }
+
+
+
+    .text {
+        margin-left:50px;
+        max-width: 800px;
+       
+      
+      
+    }

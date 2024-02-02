@@ -1,0 +1,34 @@
+.myButton{
+    padding: 10px;    
+
+    }
+.myButton:hover{
+        padding: 10px;
+        background-color: beige;
+        cursor: pointer;
+        
+    
+}
+.myLinks{
+    a:hover{
+        color: red;
+    }
+    
+    a:link{
+        color: purple
+    }
+    
+    a:active{
+        color: green;
+    }
+    
+    a:visited{
+        color: blue
+    }
+
+    a:first-child{color:orange}  
+    
+
+
+}
+.myLinks>a:first-child{color: black;}

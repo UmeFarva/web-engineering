@@ -1,0 +1,50 @@
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+
+}
+
+.button1:hover {
+    cursor: pointer;
+  background-color: #04AA6D;
+  color: white;
+}
+
+a:visited {
+    color: goldenrod;
+  }
+a{
+    color: blue;
+}
+  
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: black;
+} 
+
+p:first-child {
+    background-color: yellow;
+}
+p{
+    
+    font-family: 'Rubik Glitch Pop', system-ui;
+}
+.heroicon {
+    width: 50px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+    fill: #333; /* Set the desired color */
+  }
+
+.fixed-area{
+
+    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    width: 200px;
+    height: 200px;
+}
