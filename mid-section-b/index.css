@@ -1,0 +1,23 @@
+#container{
+height: 400px;
+width: 400px;
+border: 1px solid black;
+justify-content: center;
+
+}
+
+.container2{
+    height: 50px;
+width: auto;
+border: 1px solid black
+
+}
+
+
+
+.thumbnails{
+width: 40px;
+height: 40px;
+
+
+}
